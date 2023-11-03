@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Upendra48&show_icons=true&locale=en&layout=compact" alt="Upendra48" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Upendra48&show_icons=true&locale=en" alt="Upendra48" /></p>
-
+<a href="http://www.github.com/Upendra48"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Upendra48&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
