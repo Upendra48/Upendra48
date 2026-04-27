@@ -1,32 +1,111 @@
+<!-- Header -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Upendra Raj Joshi</h1>
-<h3 align="center">An Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+```
+██╗   ██╗██████╗      ██╗
+██║   ██║██╔══██╗     ██║
+██║   ██║██████╔╝     ██║
+██║   ██║██╔══██╗██   ██║
+╚██████╔╝██║  ██║╚█████╔╝
+ ╚═════╝ ╚═╝  ╚═╝ ╚════╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra48&label=Profile%20views&color=0e75b6&style=flat" alt="upendra48" /> </p>
+# Hey there 👋 I'm **Upendra Raj Joshi**
 
-- 🌱 I’m currently learning **Mobile Application Development**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Engineering+Student+%F0%9F%8E%93;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+DSA+Enthusiast+%F0%9F%92%AA;Competitive+Programmer+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Flutter and DSA**
+<img src="https://komarev.com/ghpvc/?username=upendra48&label=Profile+Views&color=00c896&style=flat-square" alt="Profile views" />
 
-- 📫 How to reach me **upendraofficial10@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
 
-<a href="https://twitter.com/upendra_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="upendra_48" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/upendra-raj-joshi-0792b5240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="upendra-raj-joshi-0792b5240" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/upendra10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="upendra10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/upendra10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="upendra10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/upendra10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="upendra10" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/upendra10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="upendra_48" height="30" width="40" /></a>
-</p>
+## `$ cat about.json`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   </p>
+```json
+{
+  "name": "Upendra Raj Joshi",
+  "role": "Engineering Student",
+  "currently_learning": "Mobile Application Development",
+  "expertise": ["Flutter", "Dart", "DSA", "C++"],
+  "ask_me_about": ["Flutter", "Data Structures & Algorithms"],
+  "email": "upendraofficial10@gmail.com",
+  "competitive_coding": ["LeetCode", "Codeforces", "GeeksForGeeks"],
+  "fun_fact": "I debug with console.log and I'm not ashamed"
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Upendra48&show_icons=true&locale=en&layout=compact" alt="Upendra48" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Upendra48&show_icons=true&locale=en" alt="Upendra48" /></p>
-<a href="http://www.github.com/Upendra48"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Upendra48&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## `$ ls tech-stack/`
 
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Backend & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+## `$ cat competitive-coding.log`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-upendra10-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/upendra10)
+[![Codeforces](https://img.shields.io/badge/Codeforces-upendra10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/upendra10)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-upendra10-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/upendra10)
+[![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-upendra10-E05C25?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/upendra10)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Upendra48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00c896&icon_color=00c896&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra48&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00c896&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Upendra48&stroke=00c896&background=0a0e17&ring=00c896&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00c896&sideNums=ffffff&sideLabels=94a3b8&dates=475569&hide_border=true" />
+
+</div>
+
+---
+
+## `$ open social/`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra_Raj_Joshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/upendra-raj-joshi-0792b5240)
+[![Twitter](https://img.shields.io/badge/Twitter-@upendra__48-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/upendra_48)
+[![Gmail](https://img.shields.io/badge/Gmail-upendraofficial10-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendraofficial10@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+/* keep building · keep solving · keep growing */
+```
+
+</div>
