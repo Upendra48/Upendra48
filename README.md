@@ -12,7 +12,7 @@
 
 # Hey there 👋 I'm **Upendra Raj Joshi**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Engineering+Student+%F0%9F%8E%93;Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+DSA+Enthusiast+%F0%9F%92%AA;Competitive+Programmer+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Python+%26+Django+Developer+🐍;Flutter+%26+Mobile+App+Enthusiast+📱;REST+API+%26+Backend+Engineer+⚙️;DSA+%26+Problem+Solver+💪;ECE+Engineering+Student+🎓)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=upendra48&label=Profile+Views&color=00c896&style=flat-square" alt="Profile views" />
 
@@ -24,14 +24,15 @@
 
 ```json
 {
-  "name": "Upendra Raj Joshi",
-  "role": "Engineering Student",
-  "currently_learning": "Mobile Application Development",
-  "expertise": ["Flutter", "Dart", "DSA", "C++"],
-  "ask_me_about": ["Flutter", "Data Structures & Algorithms"],
-  "email": "upendraofficial10@gmail.com",
-  "competitive_coding": ["LeetCode", "Codeforces", "GeeksForGeeks"],
-  "fun_fact": "I debug with console.log and I'm not ashamed"
+  "name"        : "Upendra Raj Joshi",
+  "degree"      : "Electronics, Communication & Information Engineering",
+  "college"     : "Pashchimanchal Campus",
+  "roles"       : ["Python Developer", "Django & REST API Dev", "Flutter Enthusiast"],
+  "expertise"   : ["Python", "Django", "Flutter", "DSA", "C++"],
+  "ask_me_about": ["Django REST APIs", "Flutter", "Data Structures & Algorithms"],
+  "email"       : "upendraofficial10@gmail.com",
+  "competitive" : ["LeetCode", "Codeforces", "GeeksForGeeks"],
+  "fun_fact"    : "I built a custom interpreter in C++ for fun 🤓"
 }
 ```
 
@@ -39,24 +40,54 @@
 
 ## `$ ls tech-stack/`
 
-**Mobile & Frontend**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend & Tools**
+**Backend & APIs**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+**Data & AI / ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+---
+
+---
+
+## `$ cat certifications.txt`
+
+- 🏅 **Postman API Fundamentals Student Expert** — Postman
+- 🏅 **Certification Program in Google Flutter & Dart**
+- 🏅 **Problem Solving (Basic) Certificate** — HackerRank
+- 🏅 **Problem Solving (Intermediate) Certificate** — HackerRank
+- 🏅 **Git** — LinkedIn Skill Assessment ✓
+- 🏅 **C / C++** — LinkedIn Skill Assessment ✓
+- 🤖 **AI Bootcamp 2024** — ML · Deep Learning · PyTorch · TensorFlow · Pandas · NumPy
 
 ---
 
@@ -94,7 +125,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra_Raj_Joshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/upendra-raj-joshi-0792b5240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra_Raj_Joshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/upendra48)
 [![Twitter](https://img.shields.io/badge/Twitter-@upendra__48-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/upendra_48)
 [![Gmail](https://img.shields.io/badge/Gmail-upendraofficial10-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendraofficial10@gmail.com)
 
@@ -104,8 +135,5 @@
 
 <div align="center">
 
-```
-/* keep building · keep solving · keep growing */
-```
 
 </div>
